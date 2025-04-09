@@ -10,6 +10,11 @@ path = 'contracts/inventory-management.clar'
 clarity_version = 2
 epoch = 2.5
 
+[contracts.quality-certification]
+path = 'contracts/quality-certification.clar'
+clarity_version = 2
+epoch = 2.5
+
 [contracts.supplier-verification]
 path = 'contracts/supplier-verification.clar'
 clarity_version = 2
